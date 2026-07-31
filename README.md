@@ -143,9 +143,11 @@ edge-tts
 
 
 
-```markdown
-![Audiobook Generator](Demo/demo_img1.png)
-```
+## 🖼️ Application Preview
+
+<p align="center">
+  <img src="Demo/demo_img1.png" alt="Audiobook Generator" width="800">
+</p>
 
 
 
