@@ -41,7 +41,7 @@ audiobook-generator/
 
 ```bash
 git clone https://github.com/ZikCodes/Audiobook-Generator.git
-cd vocalise
+cd Audiobook-Generator
 ```
 
 ### 2. Create a virtual environment
@@ -138,9 +138,6 @@ Example `requirements.txt`:
 streamlit
 edge-tts
 ```
-
-## 🖼️ Application Preview
-
 
 
 ## 🖼️ Application Preview
