@@ -40,7 +40,7 @@ audiobook-generator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/audiobook-generator.git
+git clone https://github.com/ZikCodes/Audiobook-Generator.git
 cd vocalise
 ```
 
@@ -144,7 +144,7 @@ edge-tts
 
 
 ```markdown
-![Audiobook Generator](Demo/demo_img1.png)
+![Audiobook Generator](demo_img1.png)
 ```
 
 
