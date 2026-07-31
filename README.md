@@ -144,7 +144,7 @@ edge-tts
 
 
 ```markdown
-![Audiobook Generator](Demo\\demo_img1.png)
+![Audiobook Generator](Demo/demo_img1.png)
 ```
 
 
